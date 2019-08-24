@@ -1,0 +1,7 @@
+#Wed Jul 12 10:22:10 IST 2017
+base.0=/home/emran/AndroidStudioProjects/AgainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7144d52abbc00286b26e3d266b4da338837ec35f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/emran/AndroidStudioProjects/AgainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_72eb0755dfa1306c44ba33e1a3ae489b257f30c3/classes.dex
+base.1=/home/emran/AndroidStudioProjects/AgainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_72eb0755dfa1306c44ba33e1a3ae489b257f30c3
+file.0=/home/emran/AndroidStudioProjects/AgainProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7144d52abbc00286b26e3d266b4da338837ec35f/classes.dex

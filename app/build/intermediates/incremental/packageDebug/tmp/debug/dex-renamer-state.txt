@@ -1,0 +1,13 @@
+#Tue Apr 24 09:56:48 GMT-08:00 2018
+path.3=classes.dex
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=D\:\\AgainProject-20180423T185638Z-001\\AgainProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\31
+base.2=D\:\\AgainProject-20180423T185638Z-001\\AgainProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\30
+base.1=D\:\\AgainProject-20180423T185638Z-001\\AgainProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\32
+base.0=D\:\\AgainProject-20180423T185638Z-001\\AgainProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\29

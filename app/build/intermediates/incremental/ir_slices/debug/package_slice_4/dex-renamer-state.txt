@@ -1,0 +1,4 @@
+#Tue Apr 24 09:56:47 GMT-08:00 2018
+base.0=D\:\\AgainProject-20180423T185638Z-001\\AgainProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\22
+path.0=classes.dex
+renamed.0=classes.dex

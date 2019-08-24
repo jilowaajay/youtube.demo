@@ -1,0 +1,1880 @@
+<resources>
+    <string name="app_name">AgainProject</string>
+    <integer-array name="integer_java">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="integer_xml">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <string-array name="websites">
+        <item>https://developer.android.com/guide/index.html</item>
+        <item>https://www.javatpoint.com/android-history-and-versions</item>
+        <item>https://developer.android.com/studio/index.html</item>
+        <item>https://developer.android.com/reference/android/app/Activity.html</item>
+        <item>https://developer.android.com/guide/components/activities/activity-lifecycle.html</item>
+        <item>https://developer.android.com/guide/topics/ui/declaring-layout.html</item>
+        <item>https://developer.android.com/guide/topics/ui/layout/linear.html</item>
+        <item>https://developer.android.com/guide/topics/ui/layout/relative.html</item>
+        <item>https://developer.android.com/guide/topics/ui/layout/grid.html</item>
+        <item>https://developer.android.com/guide/topics/ui/layout/gridview.html</item>
+        <item>https://developer.android.com/reference/android/widget/FrameLayout.html</item>
+        <item>https://developer.android.com/training/constraint-layout/index.html</item>
+        <item>https://developer.android.com/reference/android/view/View.html</item>
+        <item>https://developer.android.com/reference/android/view/ViewGroup.html</item>
+        <item>https://developer.android.com/guide/topics/manifest/manifest-intro.html</item>
+        <item>https://developer.android.com/guide/topics/manifest/activity-element.html</item>
+        <item>https://www.tutorialspoint.com/android/android_event_handling.htm</item>
+        <item>https://developer.android.com/reference/android/widget/Toast.html</item>
+        <item>https://developer.android.com/reference/android/content/Intent.html</item>
+        <item>https://developer.android.com/guide/topics/ui/layout/listview.html</item>
+        <item>https://developer.android.com/reference/android/view/LayoutInflater.html</item>
+        <item>https://developer.android.com/guide/topics/ui/dialogs.html</item>
+        <item>https://developer.android.com/guide/components/fragments.html</item>
+        <item>https://developer.android.com/training/animation/screen-slide.html</item>
+        <item>https://developer.android.com/reference/android/support/design/widget/TabLayout.html</item>
+        <item>https://developer.android.com/reference/android/content/SharedPreferences.html</item>
+        <item>https://developer.android.com/guide/topics/resources/string-resource.html</item>
+        <item>https://developer.android.com/guide/topics/resources/drawable-resource.html</item>
+        <item>https://developer.android.com/guide/topics/resources/available-resources.html</item>
+        <item>https://developer.android.com/guide/topics/providers/content-providers.html</item>
+        <item>https://developer.android.com/reference/android/content/BroadcastReceiver.html</item>
+    </string-array>
+
+    <string-array name="topicNames">
+        <item>Introduction</item>
+        <item>History</item>
+        <item>Installation</item>
+        <item>Activity</item>
+        <item>Lifecycle</item>
+        <item>Layouts</item>
+        <item>Linear Layout</item>
+        <item>Relative Layout</item>
+        <item>Table Layout</item>
+        <item>Grid Layout</item>
+        <item>Frame Layout</item>
+        <item>Constraint Layout</item>
+        <item>View</item>
+        <item>Viewgroup</item>
+        <item>Manifest</item>
+        <item>Orientation</item>
+        <item>Event Handling</item>
+        <item>Toast</item>
+        <item>Intent</item>
+        <item>Adapter View</item>
+        <item>Layout Inflater</item>
+        <item>Dialog Box</item>
+        <item>Fragment</item>
+        <item>View Pager</item>
+        <item>TabLayout</item>
+        <item>Shared Preference</item>
+        <item>String Resources</item>
+        <item>Drawable Resources</item>
+        <item>Values</item>
+        <item>Additional Components</item>
+        <item>Broadcast Receiver</item>
+    </string-array>
+
+    <string-array name="description">
+
+
+
+
+        <item>Android is an operating system for mobile devices such as smartphones and tablet computers. Android Operating System is built on the open Linux Kernel.
+It includes a touch screen user interface, widgets, camera, network data monitoring and all the other features that enable a cell phone to be called a smartphone.
+Android is a platform that supports various applications, available through the Android Play Store.\n\n
+The Android platform also allows end users to develop, install and use their own applications on top of the Android framework.\n\n
+The Android framework is licensed under the Apache License, with Android application developers holding the right to distribute their applications under their customized license.
+The Android platform is the product of the Open Handset Alliance, a group of organizations collaborating to build a better mobile phone.\n\n
+The group, led by Google, includes mobile operators, device handset manufacturers, component manufacturers, software solution and platform providers, and marketing companies.
+From a software development standpoint, Android sits smack in the middle of the open source world.</item> <!-- Introduction -->
+        <item>It was originally founded and developed by ANDY RUBIN, RICH MINER,CHRIS WHITE, and NICK SEARS under the name "Android Inc",in October,2003.
+    Google acquired Android Inc in July,2005.\n\n
+    On 5 November 2007, Google formed Open Handset Alliance(OHA).\n\n
+    Open Handset Alliance :\n\n
+    It is a group of 84 technology and mobile companies who have come together to accelerate innovation in mobile and offer consumers a richer, less expensive, and better mobile experience.It includes Google, HTC, Sony, Dell, Intel, Motorola, Qualcomm, Texas Instruments, Samsung Electronics, T Mobile, Sprint Corporation, Nvidia etc.
+    OHA members are primarily mobile operators, handset manufacturers, software development firms, semiconductor companies and commercialization companies.\n\n
+    The first android phone was launched by HTC on 22nd October,2008.HTC Dream (also known as T Mobile G1)was the first commercially launched device to be powered by Android operating system.\n
+
+    History of Android versions :\n
+    Android 1.0 (2008)\n
+    Android 1.5 Cupcake (2009)\n
+    Android 1.6 Donut (2009)\n
+    Android 2.0 Eclair (2009)\n
+    Android 2.2 Froyo (2010)\n
+    Android 2.3 Gingerbread (2010)\n
+    Android 3.0 Honeycomb (2011)\n
+    Android 4.0 Ice Cream Sandwich (2011)\n
+    Android 4.1 Jelly Bean (2012)\n
+    Android 4.4 KitKat (2013)\n
+    Android 5.0 Lollipop (2014)\n
+    Android 6.0 Marshmallow (2015)\n
+    The latest version of the platform is now Nougat Android 7.1.1.</item> <!-- History -->
+        <item>INSTALLATION PROCESS\n\n
+
+website   https://developer.android.com/studio/index.html\n
+\n
+WINDOWS    .\n
+ 1) download and launch the .exe fileyou downloaded.\n
+ 2) follow the setup wizard to install android studio and necessary tools.\n\n
+
+Ubuntu  \n1) download the .zip file and unpack to any appropriate location.\n
+ 2) To launch android studio , open a terminal , navigate to the android studio/bin/directory , and type ./studio.sh command
+\n 3) select wheather you want to import previous android studio or not then click OK
+\n 4) the android studio wizard guides you further includes downloading Android SDK that required for developement\n\n
+
+REQUIRED LIBRARIES FOR 64 bit machines\n
+sudo apt get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2 1.0:i386\n
+(if you are using 64 bit version of ubuntu and you need to install 32bit libraries )\n\n
+
+MAC\n
+1) launch the android studio DMG file.\n
+            2) drag and drop android studio into the appliction folder then launch the Android studio\n
+ 3) select wheather you want to impot previous android studio setting  then click OK</item> <!-- Installation -->
+        <item>An activity is an application component .Activity represents a single screen . All activities interact with the user , Such as dial the phone , take a photo , send an email or view a map .\n \nActivity class take care of creating a window for you in which you can place you UI with setContentView(view) . If an application has more than one activity , then one of them should be marked as the activity that is presented when the application is launched . \n\nFor example , an email application might have one activity that shows a list of new emails , another activity to compose an email , and another activity for reading emails .</item> <!-- Activity -->
+        <item>The Lifecycle of an Activity comprises a collection of methods.\n\n
+These methods are: OnCreate(), OnStart(), OnResume(), OnPause(), OnStop(), OnDestroy(), OnRestart().\n\n
+
+ OnCreate() : OnCreate() method is used for initializing the class as well as providing the view.\n\n
+ OnStart() : OnStart() method will start the application.\n\n
+ OnResume() : OnResume() method will create interaction with activity.\n\n
+ OnPause() : OnPause() method will partially hide the activity.\n\n
+ OnStop() : OnStop() method will completely hide the activity.\n\n
+ OnDestroy() : OnDestroy() method will destroy the application.\n\n
+ OnRestart() : OnRestart() method will called after your activity has been stopped, prior to it being started again.\n
+</item> <!-- LifeCycle -->
+        <item>A layout defines the visual structure for a user interface, such as the UI for an activity or app widget.\n
+	For example  The activity_main.xml is a layout file available in res/layout directory,that is referenced by your application when building its interface.\n\n
+
+	An Android layout is a class that handles arranging the way its children appear on the screen.
+ 	Anything that is a View (or inherits from View) can be a child of a layout. All of the layouts inherit from ViewGroup (which inherits from View) so you can nest layouts.
+	 You could also create your own custom layout by making a class that inherits from ViewGroup.\n\n
+
+There are different types of Layouts available\n
+1)LINEAR LAYOUT It is a basic layout that arrange the different components either in vertical form or in horizontal form.\n\n
+2)RELATIVE LAYOUT It is also a basic layout which arrange the views w.r.t. its parent or its neighbours.\n\n
+3)TABLE LAYOUT It is a view that groups views into rows and columns.\n\n
+4)ABSOLUTE LAYOUT It enables you to specify the exact location of its children.\n\n
+5)FRAME LAYOUT FrameLayout represents a simple layout for the user interface of Android applications.\n\n
+6)LIST VIEW It is a viewgroup that displays a list of scrollable items.\n\n
+7)GRID VIEW GridView let you arranges components in a two dimensional scrolling grid.
+</item> <!-- Layouts -->
+        <item>In Android, LinearLayout is a common layout that arranges  COMPONENTS in vertical or horizontal order, via orientation attribute.
+  In additional, the highest WEIGHT component will fill up the remaining space in LinearLayout.\n\n﻿
+
+            KEY POINTS\n
+
+1) If a Linear Layout is set to vertical orientation and contains more number of views than the screen space, it will not be scrollable by default. You have to explicitly put the Linear Layout inside a ScrollView.\n\n
+2) you must be careful about over-using the Linear Layout. If your application design demands nesting of multiple Linear Layouts, you may want to consider using a Relative Layout instead</item>  <!-- LinearLayout -->
+        <item>It specify that how components of realtive layout are views are positioned relative to each other.
+components can be positioned by using their neighbouring components or parent .\n\n
+LIST OF ATTRIBUTES:\n
+
+android:layout_above\n
+android:layout_alignBottom\n
+android:layout_alignLeft\n
+android:layout_alignParentBottom\n
+android:layout_alignParentEnd
+android:layout_alignParentLeft\n
+android:layout_alignParentRight\n
+android:layout_alignParentStart\n
+android:layout_alignParentTop\n
+android:layout_alignRight\n
+android:layout_alignStart\n
+android:layout_alignTop\n
+android:layout_below\n
+android:layout_centerHorizontal\n
+android:layout_centerInParent\n
+android:layout_centerVertical\n
+android:layout_toEndOf\n
+android:layout_toLeftOf\n
+android:layout_toRightOf\n
+android:layout_toStartOf</item>  <!-- Relative Layout -->
+        <item>TableLayout is used to be arranged groups of views into rows and columns. You will use the &lt;TableRow&gt; element to build a row in the table. Each row has zero or more cells; each cell can hold one View object.\n\n
+
+Attributes:\n
+1.android:collapseColumns\n
+            It collapse the columns(meet more then two columns). The column indices must be separated by a comma: 1, 2, 5.\n\n
+
+
+2.android:shrinkColumns\n
+            The zero based index of the columns to shrink(reduce size of columns). The column indices must be separated by a comma: 1, 2, 5.\n\n
+
+
+3.android:stretchColumns\n
+            The zero based index of the columns to stretch(increase size of columns).  The column indices must be separated by a comma: 1, 2, 5.\n</item> <!-- Table Layout -->
+        <item>Grid Layout is a layout which arrange the components(views) in the tabular form.It is similar to TableLayout ,but here we can define no. of rows and columns by the attributes (rowCount and columnCount).Grid layout is mainly used to align its child views in cells which are the horizontal and vertical intercepts of an invisible line. Each view child is place in a cell and the cells are numbered with the horizontal and vertical indexes.\n\nGridLayout works with a flat-view hierarchy, where child views set their locations in the grid by specifying the rows and columns they should be in. This way, the GridLayout is able to position views in the grid without requiring that any intermediate views provide a table structure, such as seen in the table rows used in the Table Layout. By maintaining a flat hierarchy, GridLayout is able to more swiftly layout its child views. Let’s take a look at an example to illustrate what this concept actually means in code.
+        </item> <!-- Grid Layout -->
+        <item>FrameLayout arranges the components in the form of stack,with the most recently added child on top. They are designed to block an area on the screen.Elements that overlap will be displayed overlapping.
+we can use android:visibility attribute in XML or setVisibility method in java for hiding(GONE) ,for displaying (VISIBLE) any elements.</item> <!-- Frame Layout -->
+        <item>Using ConstraintLayout we are able to create large and complex layouts with flat hierarchy.It does not support nesting of ViewGroups.It is similar to RelativeLayout ,but it is more flexible than RelativeLayout.we can build our layout with ConstraintLayout entirely by drag and dropping instead of editing the XML.</item> <!-- Constraint Layout -->
+        <item>A View is an object that draws something on the screen that the user can interact with.
+            It is responsible for measuring , layouting and drawings themselves and their child elements.\n\n
+             There are number of Views (UI controls)provided by Android that allow us to build the graphical user interface for our app.\n\n
+                        Some are:\n
+            1)TextView:    TextView displays text to the user and allows them to edit programatically.\n\n
+            2)EditText:  This is a predefined subclass of TextView that permits rich editing capabilities.\n\n
+            3)Button:  Button represents a push button. A Push Button can be clicked or pressed by the user to perform an action.\n
+            There are different types of buttons used in android such as \na)ImageButton,\n b)toggleButton,\nc) radiobutton.\n\n
+            4)CheckBox:  An on or off switch that can be toggled by the user and can be used to select multiple options from a group of selectable options.</item> <!-- View -->
+        <item>ViewGroup is an object which is responsible for arranging the components(View) in different manner.
+
+            It is a base class of some special UI class that can contain other view objects as children.\n\n
+
+            Android contains the following commonly used Viewgroup subclasses:\n
+            1)LinearLayout:  Arrange components in Linear Form.\n\n
+            2)Relative Layout:  Arrange the views w.r.t to its parent or its neighbours.\n\n
+            3)Table Layout:  Arrange the views in tabular form.\n\n
+            4)Grid Layout:  It is similar to table layout but here we can define number of rows
+            and number of columns by the Attribute rowcount and columnCount.</item>  <!-- ViewGroup -->
+        <item>Every components that you have dovelop for your application, must be declare in the manifest file called AndroidManifest.xml which is root of your project.If you do not declare it in a manifest file,then component will not considerd by the operating system.\n\n
+1.Versioning:&lt;manifest&gt; tag consists of application versioning information (android:versionCode and android:versionName) helps the android systems to maintain the upgrade/ downgrade of application.\n\n
+2.Activity:Android application consists of four types of components:\n
+
+  SERVICES\n
+  CONTENT PROVIDERS\n
+  BROADCAST RECIEVER\n
+  ACTIVITY\n\n
+3.Permission:Android OS model requires applications to highlight what features of OS or resources they are going to use(such as bluetoth,Wifi,camera,sensors,etc).\n\n
+4.SDK Version:\n
+  manifest file provides the information to the system while installation
+  checking for the availability of SDK version and install accordingly.</item> <!-- Manifest -->
+        <item>The screenOrientation is the attribute of activity element. The orientation of android activity can be portrait, landscape, sensor, unspecified etc.
+    You need to define it in the AndroidManifest.xml file.\n\n
+
+
+   The common values for screenOrientation attribute are as follows:\n\n
+
+   1) unspecified  -	It is the default value. In such case, system chooses the orientation.\n
+   2) portrait    - 	taller not wider\n
+   3) landscape  -  	wider not taller\n
+   4) sensor	-     	orientation is determined by the device orientation sensor.</item> <!-- Orientation -->
+        <item>It is the mechanism that control the event and decide what should happen if  event occur  this mechanism have the code which is know as event handling that is executed when an event accur.\n\n
+There are 3 concepts related to EVENT HANDLING:\n
+1.Event Listeners\n
+2.Event Listeners USING INTERFACES\n
+3.Event Handling using XML\n\n\n
+
+             EVENT LISTENERS:
+            using setOnclickListener in JAVA and implement in respected Activity and after implements we have to override the onClick method.\n\n
+
+            class MainActivity extends Activity implements View.OnclickListeners\n
+            {\n
+            .\n
+            .\n
+            .\n
+            final Button button = findViewById(R.id.button_id);\n
+            button.setOnClickListener(this);\n
+            .\n
+            .\n
+            .\n
+            }\n
+            public void onClick(View v)\n
+            {\n
+            //body on button click\n
+            }\n\n\n
+            EVENT LISTENERS using STATIC INNER CLASS :\n
+ 	when your Activity class implements the Listener interface and you put the handler method in the main Activity and then you call setonclicklistener(this).\n
+ 	when Using the setOnclickListener method Where you pass an object that implement the onclickListener interface .\n
+ 	To specify an action when the button is pressed, set a click listener on the button object in the corresponding activity code\n\n
+
+public class MyActivity extends Activity \n{\n
+protected void onCreate(Bundle savedInstanceState) {\n
+super.onCreate(savedInstanceState);\n
+setContentView(R.layout.content_layout_id);\n
+
+final Button button = findViewById(R.id.button_id);\n
+button.setOnClickListener(new View.OnClickListener() \n{\n
+  @Override\n
+    public void onClick(View v) \n{\n
+        myFancyMethod(v);\n
+    }\n\n
+});\n\n
+}\n\n
+
+ EVENT HANDLING USING XML:  Using An Onclick in XML Attribute :\n\n
+	 Onclick =Using the android:onclick XML attribute Where you just use the name of a public method with the signature void name (View v) .\n\n
+	In main activity we call a button through (fun )method  out side the onCreate method .\n\n\n
+
+public class MyActivity extends Activity\n
+            {\n
+                    \t protected void onCreate(Bundle savedInstanceState) \n{\n
+                    super.onCreate(savedInstanceState);\n
+                    setContentView(R.layout.sample_main);\n
+            }\n\n
+
+                public void fun(View v) {\n
+                //Add some logic\n
+                }\n\n
+                }\n\n
+
+
+}</item> <!-- Event Handling -->
+        <item>TOAST\n
+            Toast can be used to display information for the short period of time . Toast is a subclass of java.lang.objectclass.\n\n
+            TOAST CLASS\n
+            Toast class is used to broadcast any massage on any specific event .\n
+            It uses a static method makeText which takes three parameter(context,massage,duration).\n
+            NOTE context class is a abstract class which is used to convey the massage in different classes and toast class is independent upon activity.\n\n
+                    Toast consist two constants\n\n
+            LENGTH_SHORT Display view for short time.\n
+            LENGTH_LONG Display view for a long duration.\n\n
+            Method of a toast class is\n
+            Public static Toast Make Text(Context cntext,chr seqence text,int duration)\n
+              It having text and duration .\n\n
+            public void show()\n\n
+              Display the toast.\n\n
+            public void set margin(float.horizontalMargin,float.verticalMargin)\n
+              It changes the vertical and horizontal Margin difference.</item> <!-- Toast -->
+        <item>
+It is the message that is passed between components such as activities, content providers, broadcast receivers, services etc.\n\n
+It is generally used with startActivity() method to invoke activity, broadcast receivers etc.\n\n
+
+Android intents are mainly used to:\n\n
+
+Start the service\n
+Launch an activity\n
+Display a web page\n
+Display a list of contacts\n
+Broadcast a message\n
+Dial a phone call etc.\n\n
+            IMPLICIT INTENT\n
+
+It does not specify the components.It provides information of available components provided by the system that is to be invoked.\n\n
+
+            EXPLICIT INTENT\n
+
+It specifies the component.It provides the external class to be invoked.
+</item> <!-- Intent -->
+        <item>Adapter is a bridge between UI component and data source that helps us to fill data in UI component. It holds the data and send the data to an Adapter view then view can takes the data from the adapter view and shows the data on different views like as ListView, GridView, Spinner etc. For more customization in Views we uses the base adapter or custom adapters.\n\n
+
+To fill data in a list or a grid we need to implement Adapter. Adapters acts like a bridge between UI component and data source. Here data source is the source from where we get the data and UI components are list or grid items in which we want to display that data.\n\n
+        There are three types of Adapter View :\n
+        1) ListView\n
+        2) GridView\n
+            3) Spinner\n\n
+
+            1) ListView is a view group that displays a list of scrollable items. The list items are automatically inserted to the list using an Adapter that pulls content from a source such as an array or database query and converts each item result into a view that s placed into the list.\n
+ListView is widely used in android applications. A very common example of ListView is your phone contact book, where you have a list of your contacts displayed in a ListView and if you click on it then user information is displayed.\n\n
+            2) GridView:  GridView is a view group that display items in two dimensional scrolling grid (rows and columns), the grid items are not necessarily predetermined but they are automatically inserted to the layout using a ListAdapter. Users can then select any grid item by clicking on it. GridView is default scrollable so we dont need to use ScrollView or anything else with GridView.\n
+GridView is widely used in android applications. An example of GridView is your default Gallery, where you have number of images displayed using grid.\n\n
+            3) Spinner : Spinner provides a quick way to select one value from a set of values. Android spinners are nothing but the drop down-list seen in other programming languages. In a default state, a spinner shows its currently selected value. It provides a easy way to select a value from a list of values.
+        </item> <!-- Adapter View -->
+        <item>Layoutinflater is used to manipulate android screen using predefined XML layouts . This class is used to instantiate layout XML file into its corresponding view objects . It is never used directly .</item> <!-- Layout Inflater -->
+        <item>DialogBox is a window which is used to show any message or some information on any specific action.This message asks user to make a decision or enter some additional information.DialogBox is normally used for modal events that require users to take an action before they can proceed.\n\n
+
+Structure of DialogBox includes :-\n
+            1. TitleBar Area\n
+            2. Message or Content Area\n
+            3. Buttons (max. three buttons are allowed.These are Positive Button (e.g."Yes") ,Negative Button (e.g. "No",Neutral Button (e.g. "Cancel").\n\n
+
+Types of DialogBox:-\n
+            1. Alert Dialog :-\n\n
+                        Alert dialog box is used to show alerts to the users, get confirmation from the users in order to proceed any action.In order to make an alert dialog, we have to make an object of AlertDialogBuilder which is an inner class of AlertDialog.\n\n
+            2. DatePicker Dialog :-\n\n
+                        User picks date using this Dialog. DatePickerDialog class have onDateSetListener() callback methods . This callback method is invoked when the user is done with filling the date.\n\n
+            3. TimePicker Dialog :- \n\n
+                         This Dialog is used to select time.TimePickerDialog class have onTimeSetListener() callback methods . This callback method is invoked when the user is done with filling the time.\n\n
+            4. Progress Dialog :-\n\n
+                       ProgressDialog shows the progress of a task. The progress dialog is used if we want the user to wait till the task complete. This is a extension of AlertDialog.\n\n
+        ********CUSTOM DIALOG BOXES*******\n
+            ****Description****\n\n
+
+            Creating custom Dialog :-\n
+            Step 1:- Create a custom dialog layout(e.g. custom_dialog.xml)\n
+            Step 2:- Attach this layout to Dialog\n
+        </item><!-- Dialog Boxes -->
+        <item>Fragment: A Fragment is basically a part of an Activity which gives its own layout to the Activity, or we can also say that it is kind of a sub-activity.\n\n
+
+
+A Fragment is consist of several properties like:\n
+1. It consists of its own layout and behaviour.\n
+2. It provides us the facility to add and remove itself from activity.\n
+3. We can use it in more than one activity.\n
+4. We can use more than one fragment in a single activity.\n
+5. The life cycle of the fragment is related to the life cycle of the activity that means if the activity goes on pause state, all the fragment will also be stopped.\n
+6. The concept of Fragment was added to the Android API in Honeycomb version of Android which is API version 11.\n
+We need no extend the Fragment class to design the business code of the Fragment in which we need to override the onCreateView() method.\n\n
+How to create a Fragment: We can create a fragment in XML by using &lt;fragment&gt; tag. Now we can design our fragment layout just like an activity.\n\n
+How to add a Fragment in activity: There is two way to add a Fragment into an activity First by XML and Second by JAVA.\n\n
+BY XML:  Adding a Fragment using XML is very simple, we just need to do is Drag and Drop method.\n\n
+BY JAVA: To add a Fragment dynamically you need to follow the following steps which are given below:\n\n
+Step 1: 	FragmentManager fm= getSupportFragmentManager();\n
+Step2:	 FragmentTrasition ft= fm.beginTransition();\n
+Step 3: Now we can add, remove or replace our fragment using ft.\n\n
+	Like:\n
+		ft.add(R.id.l1,new FragmentA(),"A");\n
+never forget to use commit () method when you are finished with adding or removing the fragments. i.e\n
+		ft.commit();\n\n
+
+
+Life Cycle of a Fragment: Fragment has their own life cycle methods just like an activity.\n
+A fragment has 11 life cycle methods which are as follows:\n\n
+1.onAttach(): It provides us a reference to the activity which uses the fragment for further initialization work.\n
+2.onCreate(): System calls this method when a Fragment is created. We initialize all the components of Fragment.\n
+3.onCreateView():The system calls this callback when it s time for the fragment to draw its user interface for the first time.\n
+4.onActivityCreated():It is called when the host activity is created. At this point, view can be accessed with the findViewById() method.\n
+5.onStart():The onStart() method is called once the fragment gets visible.\n
+6.onResume():Fragment becomes active.\n
+7.onPause(): The system call this method when the user leave fragment.\n
+8.onStop():Fragment going to be stopped by calling onStop().\n
+9.onDestroyView():Fragment view will destroy after call this method.\n
+10.onDestroy():onDestroy() called to do final clean up of the fragment s state but Not guaranteed to be called by the Android platform.\n\n
+            Fragment Communication: The direct communication between the Fragments is not possible, to establish the connection between the Fragments we need to define some interfaces.\n\n
+
+Steps to establish the connection between Fragments:\n
+Step 1: Find the reference variable of FragmentManager using\n\n
+		FragmentManager fm= getSupportFragmentManager();\n
+Step 2: Now to add a Fragment in the activity we first need to begin the transition by finding the reference variable of FragmentTransition using:\n\n
+		FragmentTransition ft= fm.beginTransition();\n
+Step 3: Now add all the required Fragments in the activity using:\n\n
+	ft.add(R.id.ll1, new FragA(), "A");\n
+             ft.add(R.id.ll2, new FragB(), "B");\n
+             ft.commit();\n
+
+	The first parameter of add() method defines in which layout you want to add the Fragment.\n
+	The second parameter of add() method defines which one Fragment you want to add in the activity.\n
+	And the third parameter used mainly to define a tag for further identification purpose the fragment.\n
+Step 4: In fourth step you need to create the Fragment-A i.e FragA, In this Fragment we will define a interface that will help us to communicate with Activity\n\n
+
+		public interface Communication\n
+                          {\n
+                           	public void comm(String data);\n
+                           }\n\n
+
+and by creating the reference of that interface\n
+
+		Communication c;\n
+
+Now we will be able to call the method that is defined inside the interface.\n\n
+
+Step 5: We also need to define a special method i.e onAttach() method which works as a bridge between fragment and the activity.\n\n
+public void onAttach(Context context)\n
+{\n
+    c= (Communication) context;\n
+    super.onAttach(context);\n
+}\n\n
+
+Step 6: Because Communication was an interface that is why we can not give the body of its method. The body of the method will be in the main activity through which FragA will communicate with the activity.\n\n
+
+Step 7: Now to establish the communication between the activity and FragB  we need to create the reference variable of Fragment class FragB inside the method of the interface i.e:\n\n
+
+public void comm(String data)\n
+{\n
+    FragB fb= (FragB) fm.findFragmentByTag("B");\n
+    fb.getData(data);\n
+}\n\n
+ Step 8: As we can see the Fragment-B i.e FragB has a method called getData which will receive some string type data:\n\n
+
+public void getData(String data)\n
+{\n
+    tv.setText(data);\n
+}\n\n
+
+</item><!-- Fragment -->
+        <item>
+The ViewPager is the widget that allows the user to swipe left or right to see an entirely new screen.\n\n
+	The ViewPager uses a PagerAdapter whose job is to supply views to the MainActivity similar to what a ListAdapter does for a ListView.</item> <!-- ViewPager -->
+        <item>TabLayout provides a horizontal layout to display tabs.\n\n
+Use newTab() method to create new tab.You can change tabs label by using setText() method as well as icon by setIcon() method.\n\n
+To display the tab, you need to add it to the layout via one of the addTab(Tab) methods.\n\n
+You need to set a listener to be notified when any tabs selection state changes.\n\n
+You can also add items to TabLayout in your layout through the use of TabItem tag.</item>  <!-- 30 TabLayout -->
+        <item>Android provides many ways of storing data of an application. One of this way is called Shared Preferences.\n\n
+ Shared Preferences allow you to save and retrieve data in the form of key,value pair.\n\n
+            \nIt is best to save USERNAME, PASSWORD i.e light weight data;\n\n
+
+Reference:-\n\n
+SharedPreferences sharedpreferences = getSharedPreferences(MyPREFERENCES, Context.MODE_PRIVATE);\n\n
+
+The first parameter is the key.\n
+The second parameter is the MODE.</item>  <!-- 31 Shared preference  -->
+        <item>A string resource provides text strings for your application with optional text styling and formatting . There are three types of resources that can provide your application with strings\n
+        1)STRING\n
+        2)STRING ARRAY\n
+        3)QUANTITY STRINGS(PLURALS)\n\n
+
+        By default  over android project includes a string resource file at "edit _message" and set the value to "Enter a message."\n
+        The string class reprents a character string . Whwn a string is created , At that time the value of string is not changed .\n
+        For example\n
+        String str=abc\n\n
+        Types of resources\n
+        String   A single string that can be referenced from the application or from other resource files (such as an XML layout) . A string is a simple resource that is referenced using the value provided in the name attribute .</item> <!-- String Resources -->
+        <item>Image files like .png , .jpg , .gif or XML that are complied into bitmaps,state lists,shapes,animation drawables.They are saved in res/drawable/ and accessed from R.drawable class.\n\n
+
+
+There are different types of drawables :\n
+1. Bitmap File :\n\n
+A bitmap graphic file (.png, .jpg, or .gif). Creates a BitmapDrawable.\n
+file location : res/drawable/file_name.jpg (.png,.jpg, or .gif)\n
+Resource reference :\n
+In XML : @drawable/file_name\n
+In Java: R.drawable.file_name\n
+2.Nine Patch file :\n\n
+Nine Patch file is a stretchable bitmap file that Android will automatically scale to accomodate the size of the view.file extension : .9, like file.9.png and defined in XML format using &lt; nine patch &gt; tag.\n\n
+    3. Shape drawable :\n\n
+    supports all basic shapes such as  line, oval and rectangle and defined in XML format using &lt;string array&gt; tag.\n
+        4.State lists :\n\n
+        is a group of several images that are mapped to different states of an object.Android uses the correct image form list based on current state of object and defined in XML format using &lt; item &gt; tag.\n
+            5. Layer List :\n\n
+            A Drawable that manages an array of other Drawables.\n
+
+            Adding an image to res/drawable folder :\n\n
+            1) Right click on res, new Image Asset\n
+            2) On Asset type choose Action Bar and Tab Icons\n
+            3) Choose the image path\n
+            4) Give image name in Resource name\n
+            5) Next >Finish</item>  <!-- Drawable Resources -->
+        <item>XML files that contain simple values, such as strings, integers,
+            and colors are always maintained separately in sub directory values under res directory of the project.
+            When you create a resource in any sub directory under res you can use it by referencing its resource ID.
+            All resource IDs are defined in your project R class.\n\n
+            XML files that contain simple values, such as strings, integers, and colors are always maintained separately in sub directory values under res directory of the project.
+            When you create a resource in any sub directory under res you can use it by referencing its resource ID. All resource IDs are defined in your project R class.\n\n
+
+                Here are some filename conventions for resources you can create in this directory\n
+
+            1)  arrays.xml     for resource arrays, and accessed from the R.array class.\n
+            2)  integers.xml   for resource integers, and accessed from the R.integer class.\n
+            3)  bools.xml      for resource boolean, and accessed from the R.bool class.\n
+            4)  colors.xml     for color values, and accessed from the R.color class.\n
+            5)  dimens.xml     for dimension values, and accessed from the R.dimen class.\n
+            6)  strings.xml    for string values, and accessed from the R.string class.\n
+            7)  styles.xml     for styles, and accessed from the R.style class.\n\n
+            There are two ways you can access a resource:\n
+             In .java file :\n  [ &lt;package_name&gt;.]R.&lt;resource_type&gt;.&lt;resource_name&gt;\n
+            &lt;package_name&gt;  :  Name of the package in which the resource is located (not required when referencing resources from your own package).\n\n
+            &lt;resource_type&gt; :  R subclass for the resource type.\n\n
+            &lt;resource_name&gt; :  Resource filename without the extension.\n\n
+
+
+
+            In XML file :  @[&lt;package_name&gt;:]&lt;resource_type&gt;/&lt;resource_name&gt;\n
+
+            &lt;package_name&gt;  :  Name of the package in which the resource is located (not required when referencing resources from the same package)\n\n
+            &lt;resource_type&gt; :  R subclass for the resource type\n\n
+            &lt;resource_name&gt; :  Resource filename without the extension.\n\n
+
+            </item> <!-- Values -->
+        <item>Additonal Components: \nThere are some additonal components which are used to build
+entities(like:Activities,Broadcast Receivers,Content Provider).\n\n
+List of additional components are:\n\n
+
+MANIFEST:It is the file in which it contains complete information about the application.\n\n
+RESOURCES:it is used to provide external elements(like:colors,animation,bitmaps etc.).\n\n
+INTENTS:It is used to access other component(Activities) of same Application.\n\n
+LAYOUT:It is the hierarchies(UI) of application .\n\n
+VIEWS:It is the Class that contain components(viewgroup) such as button,textview,edittext,etc.\n\n
+RAGMENTS:It is used to build Dynamic User Interface and it should be used within activity.It is kind of sub activity.</item> <!-- Additional Components -->
+        <item>Broadcast Receivers simply respond to broadcast messages from other applications or from the system itself.\n
+ These messages are sometime called events or intents. For example, applications can register for the ACTION_BOOT_COMPLETED system event which is fired once the Android system has completed the boot process.\n\n
+\n
+To set up a Broadcast Receiver in our android application we need to do the following two things\n\n
+1)Creating the Broadcast Receiver.\n\n
+2)Registering Broadcast Receiver.\n\n
+There is one additional steps in case you are going to implement your custom intents then you will have to create and broadcast those intents.\n
+</item>  <!-- BroadCast Receiver -->
+
+
+    </string-array>
+
+    <string-array name="java">                                                                      <!--     JAVA CODING     -->
+        <item>NULL</item>
+        <item>NULL</item>
+        <item>NULL</item>
+        <item>NULL</item>
+        <item>
+
+public class First extends AppCompatActivity {\n
+   @Override\n
+    protected void onCreate(Bundle savedInstanceState) {\n
+        super.onCreate(savedInstanceState);\n
+        setContentView(R.layout.activity_first);\n
+    }\n\n
+    @Override\n
+    protected void onStart() {\n
+        super.onStart();\n
+        Log.e("App","onStart is running!!");\n
+    }\n\n
+    @Override\n
+    protected void onResume() {\n
+        super.onResume();\n
+        Log.e("App","onResume is running!!");\n
+    }\n\n
+    @Override\n
+    protected void onPause() {\n
+        super.onPause();\n
+        Log.e("App","onPause is running!!");\n
+    }\n\n
+    @Override\n
+    protected void onStop() {\n
+        super.onStop();\n
+        Log.e("App","onStop is running!!");\n
+    }\n\n
+    @Override\n
+    protected void onDestroy() {\n
+        super.onDestroy();\n
+        Log.e("App","onDestroy is running!!");\n
+    }\n\n
+}\n\n
+</item>
+        <item>NULL</item>
+        <item>public class MyActivity extends Activity {\n
+\n
+@Override\n
+public void onCreate(Bundle savedInstanceState) {\n
+    super.onCreate(savedInstanceState);\n
+\n
+    LinearLayout layout = new LinearLayout(this);\n
+    layout.setOrientation(LinearLayout.VERTICAL);\n
+    layout.setLayoutParams(new LayoutParams(LayoutParams.FILL_PARENT, LayoutParams.FILL_PARENT));\n
+\n
+
+    TextView titleView = new TextView(this);\n
+    titleView.setWidth(LayoutParams.WRAP_CONTENT);\n
+    titleView.setHeight(LayoutParams.WRAP_CONTENT);\n
+    titleView.setTextAppearance(this, android.R.attr.textAppearanceLarge);\n
+    titleView.setText("Hallo Welt!");\n
+    layout.addView(titleView);\n
+\n
+    setContentView(layout);\n
+\n
+}\n\n
+}</item>
+        <item>
+protected void onCreate(Bundle savedInstanceState) {\n
+	super.onCreate(savedInstanceState);\n
+	Button myButton = new Button(this);\n
+	myButton.setText("Press me");\n
+	myButton.setBackgroundColor(Color.YELLOW);\n
+\n
+      RelativeLayout myLayout = new RelativeLayout(this);\n
+      myLayout.setBackgroundColor(Color.BLUE);\n
+            \n
+      RelativeLayout.LayoutParams buttonParams =\n
+                new RelativeLayout.LayoutParams(\n
+                    RelativeLayout.LayoutParams.WRAP_CONTENT,\n
+                    RelativeLayout.LayoutParams.WRAP_CONTENT);\n
+\n
+      buttonParams.addRule(RelativeLayout.CENTER_HORIZONTAL);\n
+      buttonParams.addRule(RelativeLayout.CENTER_VERTICAL);\n
+\n
+      myLayout.addView(myButton, buttonParams);\n
+      setContentView(myLayout);\n
+}</item>
+        <item>protected void onCreate(Bundle savedInstanceState) {\n
+    super.onCreate(savedInstanceState);\n
+    setContentView(R.layout.table_layout);\n
+    final TableLayout tableLayout = (TableLayout) findViewById(R.id.table);\n
+            \n
+    for (int i = 0; i &lt; 5; i++) {\n
+        // Creation row\n
+        final TableRow tableRow = new TableRow(this);\n
+        tableRow.setLayoutParams(new TableLayout.LayoutParams(TableLayout.LayoutParams.WRAP_CONTENT, TableLayout.LayoutParams.WRAP_CONTENT));\n
+\n
+        // Creation textView\n
+        final TextView text = new TextView(this);\n
+        text.setText("Test" + i);\n
+        text.setLayoutParams(new TableRow.LayoutParams(TableRow.LayoutParams.WRAP_CONTENT, TableRow.LayoutParams.WRAP_CONTENT));\n
+\n
+        // Creation  button\n
+        final Button button = new Button(this);\n
+        button.setText("Delete");\n
+        button.setLayoutParams(new TableRow.LayoutParams(TableRow.LayoutParams.WRAP_CONTENT, TableRow.LayoutParams.WRAP_CONTENT));\n
+        button.setOnClickListener(new View.OnClickListener() {\n
+            @Override\n
+            public void onClick(View v) {\n
+                final TableRow parent = (TableRow) v.getParent();\n
+                tableLayout.removeView(parent);\n
+            }\n\n
+        });\n\n
+</item>
+        <item>NULL</item>
+        <item>NULL</item>
+        <item>NULL</item>
+        <item>NULL</item>
+        <item>NULL</item>
+        <item>NULL</item>
+        <item>
+            public class MainActivity extends Activity{\n
+        EditText editText1;\n
+        Button button1;\n
+        @Override\n
+        protected void onCreate(Bundle savedInstanceState) {\n
+            super.onCreate(savedInstanceState);\n
+            setContentView(R.layout.activity_main);\n
+            \n
+            editText1=(EditText)findViewById(R.id.et1);\n
+            button1=(Button)findViewById(R.id.b1);\n
+        }\n\n
+        public void onClick(View v) {\n
+            editText1.setText("O android");\n
+        }\n\n
+    }\n\n
+
+        </item>
+        <item>NULL</item>
+        <item>public class MainActivity extends AppCompatActivity {\n
+            \n
+    @Override\n
+    protected void onCreate(Bundle savedInstanceState) {\n
+        super.onCreate(savedInstanceState);\n
+        setContentView(R.layout.activity_main);\n
+\n
+        Button button = (Button)findViewById(R.id.showToast);\n
+            \n
+        // Show toast message when button is clicked\n
+        button.setOnClickListener(new View.OnClickListener() {\n
+            @Override\n
+            public void onClick(View view) {\n
+                Toast.makeText(getApplicationContext(),"This is my toast message",Toast.LENGTH_LONG).show();// Set your own toast  message\n
+            }\n\n
+        });\n\n
+    }\n\n</item>
+        <item>Implicit Intent\n\n
+Intent intent=new Intent(Intent.ACTION_VIEW);\n
+intent.setData(Uri.parse("https://www.google.co.in/"));\n
+startActivity(intent); \n\n
+        Explicit Intent\n\n
+Intent i = new Intent(getApplicationContext(), ActivityTwo.class);\n
+startActivity(i);</item><!-- Intent -->
+        <item>ListView\n\n
+            public class MainActivity extends AppCompatActivity {\n
+\n
+    //step 1: Data source\n
+    String []arr={"INDIA","GERMANY","USA","AUSTRALIA","NORWAY"};\n
+            \n
+    @Override\n
+    protected void onCreate(Bundle savedInstanceState) {\n
+        super.onCreate(savedInstanceState);\n
+        setContentView(R.layout.activity_main);\n
+            \n
+    //step 2: Adapter\n
+        ArrayAdapter&lt;String&gt; adapter=new ArrayAdapter&lt;String&gt;(MainActivity.this,android.R.layout.simple_list_item_1,arr);\n
+            \n
+    //step 3: Get the reference of LIST VIEW &amp;  set Adapter on it\n
+        ListView listView= (ListView) findViewById(R.id.lv);\n
+        listView.setAdapter(adapter);\n
+\n
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {\n
+            @Override\n
+            public void onItemClick(AdapterView&lt;?&gt; adapterView, View view, int position, long l) {\n
+                TextView tv=(TextView) view;\n
+                String value=tv.getText().toString();\n
+                Toast.makeText(MainActivity.this,"You Clicked On "+value+" at position "+(position+1),Toast.LENGTH_SHORT).show();\n
+            }\n
+        });\n
+    }\n\n\n
+
+            GridView\n\n
+            public class MainActivity extends AppCompatActivity {\n
+            \n
+\n
+    String arr[]={"a","aa","aaa","gffd","gfsgd","dfgfd","gfdsgdf","ffddf3e"};\n
+            \n
+    @Override\n
+    protected void onCreate(Bundle savedInstanceState) {\n
+        super.onCreate(savedInstanceState);\n
+        setContentView(R.layout.activity_main);\n
+
+        ArrayAdapter&lt;String&gt; adapter=new ArrayAdapter&lt;String&gt;(this,android.R.layout.simple_spinner_dropdown_item,arr);\n
+\n
+        GridView gridView= (GridView) findViewById(R.id.grid);\n
+        gridView.setAdapter(adapter);\n
+\n
+        gridview.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {\n
+            @Override\n
+            public void onItemSelected(AdapterView&lt;?&gt; adapterView, View view, int i, long l) {\n
+                TextView t=(TextView) view;\n
+                String a=t.getText().toString();\n
+                Toast.makeText(MainActivity.this,"You click on "+a+ " at position "+i, Toast.LENGTH_SHORT).show();\n
+            }\n
+\n
+            @Override\n
+            public void onNothingSelected(AdapterView&lt;?&gt; adapterView) {\n
+\n
+            }\n
+        });\n
+
+
+    }\n
+}\n
+}\n\n\n
+            Spinner\n\n
+            public class MainActivity extends AppCompatActivity {\n
+\n
+
+    String arr[]={"a","aa","aaa","gffd","gfsgd","dfgfd","gfdsgdf","ffddf3e"};\n
+
+    @Override\n
+    protected void onCreate(Bundle savedInstanceState) {\n
+        super.onCreate(savedInstanceState);\n
+        setContentView(R.layout.activity_main);\n
+            \n
+        ArrayAdapter&lt;String&gt; adapter=new ArrayAdapter&lt;String&gt;(this,android.R.layout.simple_spinner_dropdown_item,arr);\n
+            \n
+        Spinner spinner= (Spinner) findViewById(R.id.sp);\n
+        spinner.setAdapter(adapter);\n
+        spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {\n
+            @Override\n
+            public void onItemSelected(AdapterView&lt;?&gt; adapterView, View view, int i, long l) {\n
+                TextView t=(TextView) view;\n
+                String a=t.getText().toString();\n
+                Toast.makeText(MainActivity.this,"You click on "+a+ " at position "+i, Toast.LENGTH_SHORT).show();\n
+            }\n
+\n
+            @Override\n
+            public void onNothingSelected(AdapterView&lt;? &gt; adapterView) {\n
+            \n
+            }\n
+        });\n
+    }\n
+}\n
+            \n
+        </item>
+        <item>public class MainActivity extends Activity {\n
+     @Override\n
+        public void onCreate(Bundle savedInstanceState) {\n
+            super.onCreate(savedInstanceState);\n
+            setContentView(R.layout.activity_main);\n
+            \n
+        //Creating the LayoutInflater instance\n
+            LayoutInflater li = getLayoutInflater();\n
+        //Getting the View object as defined in the customtoast.xml file\n
+            View layout = li.inflate(R.layout.customtoast,\n
+              (ViewGroup) findViewById(R.id.custom_toast_layout));\n
+            \n
+        //Creating the Toast object\n
+            Toast toast = new Toast(getApplicationContext());\n
+            toast.setDuration(Toast.LENGTH_SHORT);\n
+            toast.setGravity(Gravity.CENTER_VERTICAL, 0, 0);\n
+            toast.setView(layout);//setting the view of custom toast layout\n
+            toast.show();\n
+        }\n\n
+        @Override\n
+        public boolean onCreateOptionsMenu(Menu menu) {\n
+            getMenuInflater().inflate(R.menu.activity_main, menu);\n
+            return true;\n
+        }\n\n
+
+}\n\n  </item>
+        <item>
+public class MainActivity extends AppCompatActivity {\n
+
+    @Override\n
+    protected void onCreate(Bundle savedInstanceState) {\n
+        super.onCreate(savedInstanceState);\n
+        setContentView(R.layout.activity_main);\n
+    }\n\n
+   @RequiresApi(api = Build.VERSION_CODES.N)\n
+    public void date(View v)\n
+    {\n
+        final EditText editText=(EditText)findViewById(R.id.e1);\n
+        final Calendar c = Calendar.getInstance();\n
+        int yr = c.get(Calendar.YEAR);\n
+        int   month = c.get(Calendar.MONTH);\n
+       int  day = c.get(Calendar.DAY_OF_MONTH);\n
+        DatePickerDialog datePickerDialog = new DatePickerDialog(this,\n
+                new DatePickerDialog.OnDateSetListener() {\n
+                    @Override\n
+                    public void onDateSet(DatePicker view, int year,\n
+                                          int monthOfYear, int dayOfMonth) {\n
+                        editText.setText(dayOfMonth + \"/\" + (monthOfYear + 1) + \"/\" + year);\n
+                    }\n\n
+                }, yr, month,day);\n\n
+        datePickerDialog.show();\n
+    }\n\n
+    @RequiresApi(api = Build.VERSION_CODES.N)\n
+    public void time(View v)\n
+    {\n
+
+       final EditText e=(EditText)findViewById(R.id.e2);\n
+        Calendar  calendar = Calendar.getInstance();\n
+        int hour = calendar.get(Calendar.HOUR_OF_DAY);\n
+        int min = calendar.get(Calendar.MINUTE);\n
+        TimePickerDialog timePickerDialog = new TimePickerDialog(MainActivity.this,\n
+                new TimePickerDialog.OnTimeSetListener() {\n
+                    @Override\n
+                    public void onTimeSet(TimePicker view, int hourOfDay,\n
+                                          int minute) {\n
+                        e.setText(hourOfDay + \":\" + minute);\n
+                    }\n\n
+                }, hour, min, false);\n\n
+        timePickerDialog.show();\n
+    }\n\n
+    public void alert(View v)\n
+    {\n
+        AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this);\n
+        builder.setTitle(\"This is Alert Dialog Box\");\n
+        builder.setMessage(\"Are you want to proceed ?\");\n
+        builder.setNegativeButton(\"NO\", new DialogInterface.OnClickListener() {\n
+                    public void onClick(DialogInterface dialog, int which) {\n
+                        Toast.makeText(getApplicationContext(),\"No is clicked\", Toast.LENGTH_LONG).show();\n
+                    }\n\n
+                });\n\n
+        builder.setPositiveButton(\"YES\",\n
+                new DialogInterface.OnClickListener() {\n
+                    public void onClick(DialogInterface dialog, int which) {\n
+                        Toast.makeText(getApplicationContext(),\"Yes is clicked\",Toast.LENGTH_LONG).show();\n
+                    }\n\n
+                });\n\n
+        builder.setNeutralButton(\"CANCEL\", new DialogInterface.OnClickListener() {\n
+                    public void onClick(DialogInterface dialog, int which) {\n
+                        Toast.makeText(getApplicationContext(),\"Cancel is clicked\",Toast.LENGTH_LONG).show();\n
+                    }\n\n
+                });\n\n
+        builder.show();\n\n\n
+            *********Custom Dialog Box**********\n
+
+public class MainActivity extends AppCompatActivity {\n
+    @Override\n
+    protected void onCreate(Bundle savedInstanceState) {\n
+        super.onCreate(savedInstanceState);\n
+        setContentView(R.layout.activity_main);\n
+    }\n
+    public void fun(View v)\n
+    {\n
+        final Dialog dialog = new Dialog(this);\n
+        dialog.setContentView(R.layout.custom_dialog);\n
+        Button btNO = (Button) dialog.findViewById(R.id.b1);\n
+        btNO.setOnClickListener(new View.OnClickListener() {\n
+            @Override\n
+            public void onClick(View v) {\n
+                dialog.dismiss();\n
+            }\n\n
+        });\n
+        dialog.show();\n
+    }}\n\n
+    }}</item>  <!-- Dialog Boxes -->
+        <item>
+MainActivity JAVA CODE:\n\n
+            \n
+public class FirstActivity extends AppCompatActivity implements FragA.Communication\n
+{\n
+    FragmentManager fm;\n
+    @Override\n
+    protected void onCreate(Bundle savedInstanceState)\n
+    {\n
+        super.onCreate(savedInstanceState);\n
+        setContentView(R.layout.activity_first);\n
+\n
+        fm = getSupportFragmentManager();\n
+        FragmentTransaction ft = fm.beginTransaction();\n
+        ft.add(R.id.ll1, new FragA(), \"A\");\n
+        ft.add(R.id.ll2, new FragB(), \"B\");\n
+        ft.commit();\n
+    }\n
+            \n
+    @Override\n
+    public void comm(String data)\n
+    {\n
+        FragB fb= (FragB) fm.findFragmentByTag(\"B\");\n
+        fb.getData(data);\n
+    }\n
+}\n
+\n
+
+FragA JAVA CODE\n\n
+
+public class FragA extends Fragment\n
+{\n
+    EditText et;\n
+    Button btn;\n
+    Communication c;\n
+    @Override\n
+    public void onAttach(Context context)\n
+    {\n
+        c= (Communication) context;\n
+        super.onAttach(context);\n
+    }\n
+\n
+    @Nullable\n
+    @Override\n
+    public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState)\n
+    {\n
+        View vv1 = inflater.inflate(R.layout.frag_a, container, false);\n
+        btn = (Button) vv1.findViewById(R.id.btn);\n
+        et = (EditText) vv1.findViewById(R.id.et);\n
+        btn.setOnClickListener(new View.OnClickListener()\n
+        {\n
+            @Override\n
+            public void onClick(View view)\n
+            {\n
+                String str= et.getText().toString();\n
+                c.comm(str);\n
+            }\n
+        });\n
+        return vv1;\n
+    }\n
+    public interface Communication\n
+    {\n
+        public void comm(String data);\n
+    }\n
+}\n
+
+FragB JAVA CODE:\n\n
+            \n
+public class FragB extends android.support.v4.app.Fragment\n
+{\n
+\n
+    TextView tv;\n
+    @Override\n
+    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)\n
+    {\n
+        View vv2=inflater.inflate(R.layout.frag_b, container, false);\n
+        tv=(TextView) vv2.findViewById(R.id.tv);\n
+        return vv2;\n
+    }\n
+            \n
+    public void getData(String data)\n
+    {\n
+        tv.setText(data);\n
+    }\n
+            \n
+}\n
+</item><!-- Fragment -->
+        <item>
+            public class MainActivity extends AppCompatActivity {\n
+
+    @Override\n
+    protected void onCreate(Bundle savedInstanceState) {\n
+        super.onCreate(savedInstanceState);\n
+        setContentView(R.layout.activity_main);\n
+
+        ViewPager viewPager = (ViewPager) findViewById(R.id.viewpager);\n
+        viewPager.setAdapter(new CustomPagerAdapter(this));\n
+    }\n\n
+}\n\n
+**********ModelObject.java****************\n\n
+
+public enum ModelObject {\n
+
+    RED(R.string.red, R.layout.view_red),\n
+    BLUE(R.string.blue, R.layout.view_blue),\n
+    GREEN(R.string.green, R.layout.view_green);\n
+
+    private int mTitleResId;\n
+    private int mLayoutResId;\n
+
+    ModelObject(int titleResId, int layoutResId) {\n
+        mTitleResId = titleResId;\n
+        mLayoutResId = layoutResId;\n
+    }\n
+
+    public int getTitleResId() {\n
+        return mTitleResId;\n
+    }\n\n
+
+    public int getLayoutResId() {\n
+        return mLayoutResId;\n
+    }\n\n
+
+}\n\n
+
+***************CustomPagerAdapter******************\n\n
+
+public class CustomPagerAdapter extends PagerAdapter {\n
+
+    private Context mContext;\n
+
+    public CustomPagerAdapter(Context context) {\n
+        mContext = context;\n
+    }\n\n
+
+    @Override\n
+    public Object instantiateItem(ViewGroup collection, int position) {\n
+        ModelObject modelObject = ModelObject.values()[position];\n
+        LayoutInflater inflater = LayoutInflater.from(mContext);\n
+        ViewGroup layout = (ViewGroup) inflater.inflate(modelObject.getLayoutResId(), collection, false);\n
+        collection.addView(layout);\n
+        return layout;\n
+    }\n\n
+
+    @Override\n
+    public void destroyItem(ViewGroup collection, int position, Object view) {\n
+        collection.removeView((View) view);\n
+    }\n\n
+
+    @Override\n
+    public int getCount() {\n
+        return ModelObject.values().length;\n
+    }\n\n
+
+    @Override\n
+    public boolean isViewFromObject(View view, Object object) {\n
+        return view == object;\n
+    }\n\n
+
+    @Override\n
+    public CharSequence getPageTitle(int position) {\n
+        ModelObject customPagerEnum = ModelObject.values()[position];\n
+        return mContext.getString(customPagerEnum.getTitleResId());\n
+    }\n\n
+
+}</item><!-- ViewPager -->
+        <item>
+            public class MainActivity extends AppCompatActivity {\n
+    TabLayout tb;\n
+    @Override\n
+    protected void onCreate(Bundle savedInstanceState) {\n
+        super.onCreate(savedInstanceState);\n
+        setContentView(R.layout.activity_main);\n
+        tb= (TabLayout)findViewById(R.id.tl);\n
+        TabLayout.Tab f=tb.newTab();\n
+        f.setText(\"tab 1\");\n
+        tb.addTab(f);\n
+
+        TabLayout.Tab s=tb.newTab();\n
+        s.setText(\"tab 2\");\n
+        tb.addTab(s);\n
+
+        TabLayout.Tab t=tb.newTab();\n
+        t.setText(\"tab 3\");\n
+        tb.addTab(t);\n
+    }\n\n
+}
+</item>  <!-- 30 TabLayout -->
+        <item>
+public class MainActivity extends AppCompatActivity {\n\n
+   EditText ed1,ed2,ed3;\n
+   Button b1;\n
+
+   public static final String MyPREFERENCES = \"MyPrefs\" ;\n
+   public static final String Name = \"nameKey\";\n
+   public static final String Phone = \"phoneKey\";\n
+   public static final String Email = \"emailKey\";\n
+
+   SharedPreferences sharedpreferences;\n\n
+
+   @Override\n\n
+   protected void onCreate(Bundle savedInstanceState) {\n
+      super.onCreate(savedInstanceState);\n
+      setContentView(R.layout.activity_main);\n\n
+
+      ed1=(EditText)findViewById(R.id.editText);\n
+      ed2=(EditText)findViewById(R.id.editText2);\n
+      ed3=(EditText)findViewById(R.id.editText3);\n
+
+      b1=(Button)findViewById(R.id.button);\n\n
+      sharedpreferences = getSharedPreferences(MyPREFERENCES, Context.MODE_PRIVATE);\n
+
+      b1.setOnClickListener(new View.OnClickListener() {\n
+         @Override\n
+         public void onClick(View v) {\n
+            String n  = ed1.getText().toString();\n
+            String ph  = ed2.getText().toString();\n
+            String e  = ed3.getText().toString();\n\n
+
+            SharedPreferences.Editor editor = sharedpreferences.edit();\n\n
+
+            editor.putString(Name, n);\n\n
+            editor.putString(Phone, ph);\n
+            editor.putString(Email, e);\n
+            editor.commit();\n\n
+            Toast.makeText(MainActivity.this,\"Thanks\",Toast.LENGTH_LONG).show();\n
+         }\n\n
+      });\n\n
+   }\n\n
+
+}
+</item><!-- Shared Preferences-->
+        <item>NULL</item>
+        <item>NULL</item>
+        <item>NULL</item>
+        <item>NULL</item>
+        <item>NULL</item>
+    </string-array>
+
+    <string-array name="xml">
+        <item>NULL</item> <!-- Introduction -->
+        <item>NULl</item> <!-- History -->
+        <item>NULL</item> <!-- Installation -->
+        <item>NULL</item> <!-- Activity -->
+        <item>NULL</item> <!-- LifeCycle -->
+        <item>NULL</item> <!-- Layouts -->
+        <item>     &lt;?xml version=\"1.0\" encoding=\"utf-8\"?&gt;\n\n
+            &lt;LinearLayout xmlns:android=\"http://schemas.android.com/apk/res/android\"\n
+                android:layout_width=\"fill_parent\"\n
+                android:layout_height=\"fill_parent\"\n
+                android:orientation=\"vertical\" &gt;\n
+\n
+   &lt;Button android:id=\"@+id/btnStartService\"\n
+       android:layout_width=\"270dp\"\n
+       android:layout_height=\"wrap_content\"\n
+       android:text=\"start_service\"/&gt;\n\n
+
+   &lt;Button android:id=\"@+id/btnPauseService\"\n
+       android:layout_width=\"270dp\"\n
+       android:layout_height=\"wrap_content\"\n
+       android:text=\"pause_service\"/&gt;\n
+\n
+   &lt;Button android:id=\"@+id/btnStopService\"\n
+       android:layout_width=\"270dp\"\n
+       android:layout_height=\"wrap_content\"\n
+       android:text=\"stop_service\"/&gt;\n
+\n
+&lt;/LinearLayout&gt;\n
+        </item> <!-- LinearLayout -->
+        <item>
+            &lt;RelativeLayout xmlns:android=\"http://schemas.android.com/apk/res/android\"\n
+                xmlns:tools=\"http://schemas.android.com/tools\"\n
+                android:layout_width=\"fill_parent\"\n
+                android:layout_height=\"fill_parent\"\n
+                tools:context=\".RelativeLayoutAndroidExample\" &gt;\n
+\n
+                    &lt;TextView\n
+                        android:id=\"@+id/text1\"\n
+                        android:layout_width=\"wrap_content\"\n
+                        android:layout_height=\"wrap_content\"\n
+                        android:layout_centerHorizontal=\"true\"\n
+                        android:layout_centerInParent=\"false\"\n
+                        android:text=\"LOGIN\"\n
+                        android:layout_marginTop=\"14dp\"\n
+                        android:textAppearance=\"?android:attr/textAppearanceLarge\"\n
+                        /&gt;\n
+\n
+                     &lt;TextView\n
+                         android:id=\"@+id/textView1\"\n
+                         android:layout_width=\"wrap_content\"
+\n                         android:layout_height=\"wrap_content\"
+  \n                       android:layout_below=\"@+id/text1\"
+    \n                     android:layout_marginTop=\"20dp\"
+      \n                   android:text=\"Username :\"
+        \n                 android:textAppearance=\"?android:attr/textAppearanceLarge\" /&gt;
+\n
+  \n                   &lt;EditText
+    \n                     android:id=\"@+id/editText1\"
+      \n                   android:layout_width=\"wrap_content\"
+        \n                 android:layout_height=\"wrap_content\"
+          \n               android:layout_alignParentRight=\"true\"
+            \n             android:layout_alignTop=\"@+id/textView1\"
+              \n           android:layout_toRightOf=\"@+id/textView1\"
+                \n         /&gt;
+\n
+  \n                   &lt;TextView
+    \n                     android:id=\"@+id/textView2\"
+      \n                   android:layout_width=\"wrap_content\"
+        \n                 android:layout_height=\"wrap_content\"
+          \n               android:layout_below=\"@+id/textView1\"
+            \n             android:layout_marginTop=\"20dp\"
+\n
+  \n                       android:text=\"Password :\"
+    \n                     android:textAppearance=\"?android:attr/textAppearanceLarge\" /&gt;
+\n
+  \n                   &lt;EditText
+    \n                     android:id=\"@+id/editText2\"
+      \n                   android:layout_width=\"wrap_content\"
+        \n                 android:layout_height=\"wrap_content\"
+          \n               android:layout_alignParentRight=\"true\"
+            \n             android:layout_alignTop=\"@+id/textView2\"
+              \n           android:layout_toRightOf=\"@+id/textView2\"
+                \n         android:inputType=\"textPassword\"
+                  \n       /&gt;
+\n
+  \n                   &lt;Button
+    \n                     android:id=\"@+id/btnSubmit\"
+      \n                   android:layout_width=\"wrap_content\"
+        \n                 android:layout_height=\"wrap_content\"
+          \n               android:layout_alignParentLeft=\"false\"
+            \n             android:layout_below=\"@+id/editText2\"
+             \n            android:layout_centerInParent=\"true\"
+               \n          android:text=\"Submit\" /&gt;
+\n
+\n
+  \n                     &lt;Button
+    \n                       android:layout_width=\"wrap_content\"
+      \n                     android:layout_height=\"wrap_content\"
+        \n                   android:layout_alignParentBottom=\"true\"
+          \n                 android:text=\"SIGNUP\"
+            \n               android:layout_centerHorizontal=\"true\"/&gt;
+\n
+  \n      &lt;/RelativeLayout&gt;
+        </item> <!-- Relative Layout -->
+        <item>
+            &lt;TableLayout xmlns:android=\"http://schemas.android.com/apk/res/android\"
+        \n        android:layout_width=\"fill_parent\"
+          \n      android:layout_height=\"fill_parent\"&gt;
+\n
+  \n &lt;TableRow
+    \n   android:layout_width=\"fill_parent\"
+      \n android:layout_height=\"fill_parent\"&gt;
+\n
+  \n    &lt;TextView
+    \n      android:text=\"Time\"
+      \n    android:layout_width=\"wrap_content\"
+        \n  android:layout_height=\"wrap_content\"
+          \n android:layout_column=\"1\" /&gt;
+\n
+  \n    &lt;TextClock
+    \n      android:layout_width=\"wrap_content\"
+      \n    android:layout_height=\"wrap_content\"
+        \n  android:id=\"@+id/textClock\"
+          \nandroid:layout_column=\"2\" /&gt;
+\n
+  \n &lt;/TableRow&gt;
+\n
+  \n &lt;TableRow&gt;
+\n
+  \n    &lt;TextView
+    \n      android:text=\"First Name\"
+      \n    android:layout_width=\"wrap_content\"
+        \n  android:layout_height=\"wrap_content\"
+          \n android:layout_column=\"1\" /&gt;
+\n
+  \n    &lt;EditText
+    \n      android:width=\"200px\"
+      \n    android:layout_width=\"wrap_content\"
+        \n  android:layout_height=\"wrap_content\" /&gt;
+ \n  &lt;/TableRow&gt;
+\n
+  \n &lt;TableRow&gt;
+\n
+  \n    &lt;TextView
+    \n      android:text=\"Last Name\"
+      \n    android:layout_width=\"wrap_content\"
+        \n  android:layout_height=\"wrap_content\"
+         \n android:layout_column=\"1\" /&gt;
+\n
+  \n    &lt;EditText
+    \n      android:width=\"100px\"
+      \n    android:layout_width=\"wrap_content\"
+       \n   android:layout_height=\"wrap_content\" /&gt;
+   \n &lt;/TableRow&gt;
+\n
+ \n  &lt;TableRow
+   \n    android:layout_width=\"fill_parent\"
+     \n  android:layout_height=\"fill_parent\"&gt;
+\n
+  \n    &lt;RatingBar
+    \n      android:layout_width=\"wrap_content\"
+      \n    android:layout_height=\"wrap_content\"
+        \n  android:id=\"@+id/ratingBar\"
+         \n android:layout_column=\"2\" /&gt;
+  \n &lt;/TableRow&gt;
+\n
+  \n &lt;TableRow
+    \n   android:layout_width=\"fill_parent\"
+    \n   android:layout_height=\"fill_parent\"/&gt;
+\n
+  \n &lt;TableRow
+    \n   android:layout_width=\"fill_parent\"
+      \n android:layout_height=\"fill_parent\"&gt;
+\n
+  \n    &lt;Button
+   \n       android:layout_width=\"wrap_content\"
+     \n     android:layout_height=\"wrap_content\"
+       \n   android:text=\"Submit\"
+         \n android:id=\"@+id/button\"
+         \n android:layout_column=\"2\" /&gt;
+  \n &lt;/TableRow&gt;
+    \n    </item> <!-- Table Layout -->
+        <item>&lt;?xml version=\"1.0\" encoding=\"utf-8\"?&gt;\n
+           \n &lt;GridLayout xmlns:android=\"http://schemas.android.com/apk/res/android\"
+             \n   android:layout_width=\"match_parent\"
+              \n  android:layout_height=\"match_parent\"
+               \n android:columnCount=\"2\"
+               \n android:background=\"#87e\"&gt;
+\n\n    &lt;Button
+  \n      android:id=\"@+id/button1\"
+    \n    android:layout_width=\"100dp\"
+      \n  android:layout_height=\"70dp\"
+        \n android:text=\"b1\"
+        \n android:layout_marginTop=\"40dp\"
+        \n android:layout_marginLeft=\"30dp\"/&gt;
+  \n\n &lt;Button
+     \n   android:id=\"@+id/button2\"
+       \n android:text=\"b2\"
+ \n       android:layout_width=\"100dp\"
+   \n     android:layout_height=\"70dp\"
+     \n   android:layout_marginTop=\"40dp\"
+       \n android:layout_gravity=\"right|top\" /&gt;
+\n\n    &lt;Button
+\n        android:id=\"@+id/button3\"
+  \n      android:text=\"b3\"
+    \n    android:layout_width=\"100dp\"
+      \n  android:layout_height=\"70dp\"
+        \n android:layout_marginTop=\"40dp\"
+       \n android:layout_marginLeft=\"30dp\"/&gt;
+ \n\n   &lt;Button
+ \n       android:id=\"@+id/button4\"
+  \n      android:text=\"b4\"
+  \n      android:layout_width=\"100dp\"
+  \n      android:layout_height=\"70dp\"
+  \n      android:layout_gravity=\"right\"
+  \n      android:layout_marginTop=\"40dp\" /&gt;
+\n\n &lt;/GridLayout&gt;
+        </item> <!-- Grid Layout -->
+        <item>
+  \n          &lt;?xml version=\"1.0\" encoding=\"utf-8\"?&gt;\n
+  \n          &lt;FrameLayout xmlns:android=\"http://schemas.android.com/apk/res/android\"
+  \n              xmlns:app=\"http://schemas.android.com/apk/res-auto\"
+  \n              xmlns:tools=\"http://schemas.android.com/tools\"
+  \n              android:layout_width=\"match_parent\"
+  \n              android:layout_height=\"match_parent\"
+  \n              android:rowCount=\"3\"
+  \n              android:columnCount=\"3\"
+  \n              tools:context=\"com.example.ajay.t_14.Fir\"
+  \n              android:background=\"#00f\"
+  \n              &gt;\n
+\n &lt;ImageView
+\n    android:layout_width=\"match_parent\"
+\n    android:layout_height=\"match_parent\"
+\n    android:src=\"@mipmap/ic_launcher\"
+\n    android:id=\"@+id/iv1\" /&gt;\n
+\n &lt;ImageView
+\n     android:layout_width=\"match_parent\"
+\n     android:layout_height=\"match_parent\"
+\n     android:src=\"@mipmap/fb\"
+\n     android:id=\"@+id/iv2\"/&gt;\n
+\n &lt;/FrameLayout&gt;
+
+        </item> <!-- Frame Layout -->
+        <item>
+\n            &lt;?xml version=\"1.0\" encoding=\"utf-8\"?&gt;
+\n            &lt;android.support.constraint.ConstraintLayout xmlns:android=\"http://schemas.android.com/apk/res/android\"
+\n                xmlns:app=\"http://schemas.android.com/apk/res-auto\"
+\n                xmlns:tools=\"http://schemas.android.com/tools\"
+\n                android:layout_width=\"match_parent\"
+\n                android:layout_height=\"match_parent\"
+\n                android:id=\"@+id/constraintLayout\"&gt;\n
+\n    &lt;TextView
+\n        android:text=\"Constraint Layout example\"
+\n        android:layout_width=\"wrap_content\"
+\n        android:layout_height=\"wrap_content\"
+\n        android:textSize=\"30sp\"
+\n        android:id=\"@+id/text\"
+\n        tools:layout_constraintRight_creator=\"1\"
+\n        tools:layout_constraintBottom_creator=\"1\"
+\n        app:layout_constraintBottom_toTopOf=\"@+id/btn\"
+\n        app:layout_constraintRight_toRightOf=\"parent\"
+\n        tools:layout_constraintLeft_creator=\"1\"
+\n        android:layout_marginBottom=\"111dp\"
+\n        app:layout_constraintLeft_toLeftOf=\"parent\"
+\n        /&gt;\n
+\n    &lt;Button
+\n        android:text=\"show\"
+\n        android:layout_width=\"wrap_content\"
+\n        android:layout_height=\"wrap_content\"
+\n        android:id=\"@+id/btn\"
+\n        tools:layout_constraintTop_creator=\"1\"
+\n        tools:layout_constraintRight_creator=\"1\"
+\n        android:layout_marginEnd=\"31dp\"
+\n        app:layout_constraintRight_toRightOf=\"@+id/text\"
+\n        android:layout_marginTop=\"231dp\"
+\n        app:layout_constraintTop_toTopOf=\"parent\"
+\n        android:layout_marginRight=\"17dp\" /&gt;
+\n\n &lt;/android.support.constraint.ConstraintLayout&gt;
+        </item> <!-- Constraint Layout -->
+        <item>NULL</item> <!-- View -->
+        <item>NULL</item>  <!-- ViewGroup -->
+        <item>
+              &lt;?xml version=\"1.0\" encoding=\"utf-8\"?&gt;
+\n            &lt;manifest xmlns:android=\"http://schemas.android.com/apk/res/android\" package=\"com.android.sampleApp\" android:versionCode=\"1\" android:versionName=\"1.0\"&gt; - (1)
+\n  &lt;application android:icon=\"@drawable/icon\" android:label=\"@string/app_name\" android:permission=\"android.permission.BLUETOOTH\"&gt; - (2)
+\n    &lt;activity android:name=\".SampleActivity\" android:label=\"@string/app_name\"&gt;
+\n      &lt;intent-filter&gt;
+\n        &lt;action android:name=\"android.intent.action.MAIN\" /&gt;
+\n        &lt;category android:name=\"android.intent.category.LAUNCHER\" /&gt;
+\n      &lt;/intent-filter&gt;
+\n    &lt;/activity&gt; - (3)
+\n  &lt;/application&gt;
+\n  &lt;uses-sdk android:minSdkVersion=\"9\" /&gt; - (4)
+\n  &lt;permission android:name=\"com.android.myPermission\" android:icon=\"@drawable/icon\" android:label=\"My Permission\" android:protectionLevel=\"dangerous\" android:permissionGroup=\"com.android.SamplePermission\" android:description=\"@string/some_description\"&gt;&lt;/permission&gt;
+\n &lt;/manifest&gt;
+        </item>  <!-- Manifest -->
+        <item>
+\n            &lt;RelativeLayout xmlns:androclass=\"http://schemas.android.com/apk/res/android\"
+\n                xmlns:tools=\"http://schemas.android.com/tools\"
+\n                android:layout_width=\"match_parent\"
+\n                android:layout_height=\"match_parent\"
+\n                android:orientation=\"vertical\"
+\n                android:paddingBottom=\"@dimen/activity_vertical_margin\"
+\n                android:paddingLeft=\"@dimen/activity_horizontal_margin\"
+\n                android:paddingRight=\"@dimen/activity_horizontal_margin\"
+\n                android:paddingTop=\"@dimen/activity_vertical_margin\"
+\n                tools:context=\".MainActivity\" &gt;
+\n
+\n        &lt;Button
+\n            android:id=\"@+id/b1\"
+\n            android:layout_width=\"wrap_content\"
+\n            android:layout_height=\"wrap_content\"
+\n            android:layout_marginLeft=\"66dp\"
+\n            android:layout_marginTop=\"73dp\"
+\n            android:text=\"Button\"
+\n            android:onClick=\"onClick\"
+\n            /&gt;
+\n
+\n        &lt;EditText
+\n            android:id=\"@+id/et1\"
+\n            android:layout_width=\"wrap_content\"
+\n            android:layout_height=\"wrap_content\"
+\n            android:layout_centerHorizontal=\"true\"
+\n            android:ems=\"10\" /&gt;
+        </item> <!-- Orientation -->
+        <item>NULL</item> <!-- Event Handling -->
+        <item>
+\n        &lt;RelativeLayout xmlns:android=\"http://schemas.android.com/apk/res/android\"
+\n            xmlns:tools=\"http://schemas.android.com/tools\"
+\n            android:layout_width=\"match_parent\"
+\n            android:layout_height=\"match_parent\"
+\n            android:paddingBottom=\"@dimen/activity_vertical_margin\"
+\n            android:paddingLeft=\"@dimen/activity_horizontal_margin\"
+\n            android:paddingRight=\"@dimen/activity_horizontal_margin\"
+\n            android:paddingTop=\"@dimen/activity_vertical_margin\"
+\n            tools:context=\".MainActivity\"&gt;
+\n
+\n    &lt;TextView
+\n        android:id=\"@+id/textView\"
+\n        android:layout_width=\"wrap_content\"
+\n        android:layout_height=\"wrap_content\"
+\n        android:text=\"Simple Android Toast Example\" /&gt;
+\n
+\n &lt;Button
+\n    android:id=\"@+id/showToast\"
+\n    android:layout_width=\"match_parent\"
+\n    android:layout_height=\"wrap_content\"
+\n    android:text=\"Show Toast Message\"
+\n    android:layout_marginTop=\"16dp\"
+\n    android:layout_below=\"@+id/textView\"/&gt;
+\n &lt;/RelativeLayout&gt;
+
+    </item> <!-- Toast -->
+        <item>NULL</item>
+        <item> &lt;LinearLayout xmlns:androclass=\"http://schemas.android.com/apk/res/android\"
+\n                android:id=\"@+id/custom_toast_layout\"
+\n                android:layout_width=\"match_parent\"
+\n                android:layout_height=\"match_parent\"
+\n                android:orientation=\"vertical\"
+\n                android:background=\"#F14E23\"\n
+            \n    &lt;ListView&gt;\n
+
+            android:id=\"@+id/listView\"
+\n                android:layout_width=\"match_parent\"
+\n                android:layout_height=\"match_parent\"
+                    &lt;/ListView&gt;\n
+\n                &lt;LinearLayout&gt;</item> <!-- Adapter View -->
+        <item>
+
+\n        &lt;?xml version=\"1.0\" encoding=\"utf-8\"?&gt;
+\n            &lt;LinearLayout xmlns:androclass=\"http://schemas.android.com/apk/res/android\"
+\n                android:id=\"@+id/custom_toast_layout\"
+\n                android:layout_width=\"match_parent\"
+\n                android:layout_height=\"match_parent\"
+\n                android:orientation=\"vertical\"
+\n                android:background=\"#F14E23\"
+\n                &gt;
+
+\n       &lt;TextView
+\n           android:id=\"@+id/custom_toast_message\"
+\n           android:layout_width=\"wrap_content\"
+\n           android:layout_height=\"wrap_content\"
+\n           android:text=\"ABC\" /&gt;
+\n      &lt;/LinearLayout&gt;
+
+    </item> <!-- Layout Inflater -->
+        <item>NULL</item>
+        <item>
+\n            MainActivity layout code:
+\n
+\n &lt;LinearLayout xmlns:android=\"http://schemas.android.com/apk/res/android\"
+\n    android:layout_width=\"match_parent\"
+\n    android:layout_height=\"match_parent\"
+\n    android:orientation=\"vertical\"&gt;
+\n
+\n    &lt;LinearLayout
+\n        android:id=\"@+id/ll1\"
+\n        android:layout_width=\"match_parent\"
+\n        android:layout_height=\"0dp\"
+\n        android:layout_weight=\"5\"
+\n        android:orientation=\"vertical\"&gt;
+\n
+\n    &lt;/LinearLayout&gt;
+\n
+\n    &lt;LinearLayout
+\n        android:id=\"@+id/ll2\"
+\n        android:layout_width=\"match_parent\"
+\n        android:layout_height=\"0dp\"
+\n        android:layout_weight=\"5\"
+\n        android:orientation=\"vertical\"&gt;
+\n    &lt;/LinearLayout&gt;
+\n
+\n &lt;/LinearLayout&gt;
+\n
+\n
+\n FragA XML CODE
+\n
+\n &lt;LinearLayout xmlns:android=\"http://schemas.android.com/apk/res/android\"
+\n    android:layout_width=\"match_parent\"
+\n    android:layout_height=\"match_parent\"
+\n    android:orientation=\"vertical\"&gt;
+\n
+\n    &lt;EditText
+\n        android:id=\"@+id/et\"
+\n        android:layout_width=\"match_parent\"
+\n        android:layout_height=\"wrap_content\"
+\n        android:layout_margin=\"20dp\"
+\n        android:padding=\"10dp\"/&gt;
+\n
+\n    &lt;Button
+\n        android:id=\"@+id/btn\"
+\n        android:layout_width=\"match_parent\"
+\n        android:layout_height=\"wrap_content\"
+\n        android:layout_marginLeft=\"80dp\"
+\n        android:layout_marginRight=\"80dp\"
+\n        android:layout_marginTop=\"20dp\"
+\n        android:background=\"#208b25\"
+\n        android:padding=\"10dp\"
+\n        android:text=\"Send\"/&gt;
+\n
+\n
+\n &lt;/LinearLayout&gt;
+\n
+\n FragB XML CODE:
+\n
+\n &lt;LinearLayout xmlns:android=\"http://schemas.android.com/apk/res/android\"
+\n    xmlns:tools=\"http://schemas.android.com/tools\"
+\n    android:layout_width=\"match_parent\"
+\n    android:layout_height=\"match_parent\"
+\n    tools:context=\"com.example.dell.fragmentexample.FragB\"&gt;
+\n
+\n    &lt;TextView
+\n        android:id=\"@+id/tv\"
+\n        android:layout_margin=\"20dp\"
+\n        android:padding=\"10dp\"
+\n        android:textSize=\"20sp\"
+\n        android:layout_width=\"match_parent\"
+\n        android:layout_height=\"match_parent\"/&gt;
+\n
+\n &lt;/LinearLayout&gt;
+\n
+\n
+        </item><!-- Fragment -->
+        <item>
+\n            &lt;RelativeLayout xmlns:android=\"http://schemas.android.com/apk/res/android\"
+\n                xmlns:tools=\"http://schemas.android.com/tools\"
+\n                android:layout_width=\"match_parent\"
+\n                android:layout_height=\"match_parent\"
+\n                tools:context=\".MainActivity\"&gt;
+\n
+\n    &lt;android.support.v4.view.ViewPager
+\n        android:id=\"@+id/viewpager\"
+\n        android:layout_width=\"match_parent\"
+\n        android:layout_height=\"match_parent\"/&gt;
+\n
+\n &lt;/RelativeLayout&gt;
+\n
+\n
+\n There are three pages with their respective layouts.The layout of a single page is given below:
+\n            &lt;?xml version=\"1.0\" encoding=\"utf-8\"?&gt;
+\n            &lt;RelativeLayout xmlns:android=\"http://schemas.android.com/apk/res/android\"
+\n                android:orientation=\"vertical\" android:layout_width=\"match_parent\"
+\n                android:background=\"@android:color/holo_blue_dark\"
+\n                android:layout_height=\"match_parent\"&gt;
+\n
+\n    &lt;TextView
+\n        android:layout_width=\"wrap_content\"
+\n        android:layout_height=\"wrap_content\"
+\n        android:text=\"Second View\"
+\n        android:layout_gravity=\"center_horizontal\"
+\n        android:textSize=\"28sp\"
+\n        android:textColor=\"@android:color/black\"
+\n        android:textStyle=\"bold\"
+\n        android:layout_centerVertical=\"true\"
+\n        android:layout_centerHorizontal=\"true\"
+\n        android:id=\"@+id/textView\" /&gt;
+\n
+\n    &lt;TextView
+\n        android:layout_width=\"wrap_content\"
+\n        android:layout_height=\"wrap_content\"
+\n        android:text=\"Swipe left to\nFirst View\"
+\n        android:layout_gravity=\"center_horizontal\"
+\n        android:textSize=\"20sp\"
+\n        android:textColor=\"@android:color/black\"
+\n        android:textStyle=\"bold\"
+\n        android:minLines=\"2\"
+\n        android:id=\"@+id/textView2\"
+\n        android:padding=\"@dimen/activity_horizontal_margin\"
+\n        android:layout_alignParentBottom=\"true\"
+\n        android:layout_alignParentLeft=\"true\"
+\n        android:layout_alignParentStart=\"true\" /&gt;
+\n
+\n    &lt;TextView
+\n        android:layout_width=\"wrap_content\"
+\n        android:layout_height=\"wrap_content\"
+\n        android:text=\"Swipe right to\nThird View\"
+\n        android:layout_gravity=\"center_horizontal\"
+\n        android:textSize=\"20sp\"
+\n        android:textColor=\"@android:color/black\"
+\n        android:textStyle=\"bold\"
+\n        android:padding=\"@dimen/activity_horizontal_margin\"
+\n        android:minLines=\"2\"
+\n        android:id=\"@+id/textView3\"
+\n        android:layout_alignTop=\"@+id/textView2\"
+\n        android:layout_alignParentRight=\"true\"
+\n        android:layout_alignParentEnd=\"true\" /&gt;
+        </item><!-- ViewPager -->
+        <item>
+
+\n            &lt;?xml version=\"1.0\" encoding=\"utf-8\"?&gt;
+\n            &lt;LinearLayout xmlns:android=\"http://schemas.android.com/apk/res/android\"
+\n                xmlns:app=\"http://schemas.android.com/apk/res-auto\"
+\n                xmlns:tools=\"http://schemas.android.com/tools\"
+\n                android:layout_width=\"match_parent\"
+\n                android:layout_height=\"match_parent\"
+\n                tools:context=\"com.example.keerti.tab.MainActivity\"
+\n                android:orientation=\"vertical\"&gt;
+\n
+\n        &lt;android.support.design.widget.TabLayout
+\n            android:layout_width=\"match_parent\"
+\n            android:layout_height=\"wrap_content\"
+\n            android:id=\"@+id/tl\"&gt;
+\n        &lt;/android.support.design.widget.TabLayout&gt;
+\n
+\n    &lt;/LinearLayout&gt;
+
+        </item>  <!-- 30 TabLayout -->
+        <item>
+            &lt;?xml version=\"1.0\" encoding=\"utf-8\"?&gt;
+\n            &lt;LinearLayout xmlns:android=\"http://schemas.android.com/apk/res/android\"
+\n                xmlns:tools=\"http://schemas.android.com/tools\" android:layout_width=\"match_parent\"
+\n                android:layout_height=\"match_parent\" android:paddingLeft=\"@dimen/activity_horizontal_margin\"
+\n                android:paddingRight=\"@dimen/activity_horizontal_margin\"
+\n                android:paddingTop=\"@dimen/activity_vertical_margin\"
+\n                android:paddingBottom=\"@dimen/activity_vertical_margin\" tools:context=\".MainActivity\"&gt;
+\n
+\n   &lt;TextView
+\n       android:layout_width=\"wrap_content\"
+\n       android:layout_height=\"wrap_content\"
+\n       android:text=\"Shared Preference \"
+\n       android:id=\"@+id/textView\"
+\n       android:layout_alignParentTop=\"true\"
+\n       android:layout_centerHorizontal=\"true\"
+\n       android:textSize=\"35dp\" /&gt;
+\n
+\n   &lt;EditText
+\n       android:layout_width=\"wrap_content\"
+\n       android:layout_height=\"wrap_content\"
+\n       android:id=\"@+id/editText\"
+\n       android:layout_below=\"@+id/textView2\"
+\n       android:layout_marginTop=\"67dp\"
+\n       android:hint=\"Name\"
+\n       android:layout_alignParentRight=\"true\"
+\n       android:layout_alignParentEnd=\"true\"
+\n       android:layout_alignParentLeft=\"true\"
+\n       android:layout_alignParentStart=\"true\" /&gt;
+\n
+\n   &lt;EditText
+\n       android:layout_width=\"wrap_content\"
+\n       android:layout_height=\"wrap_content\"
+\n       android:id=\"@+id/editText2\"
+\n       android:layout_below=\"@+id/editText\"
+\n       android:layout_alignParentLeft=\"true\"
+\n       android:layout_alignParentStart=\"true\"
+\n       android:layout_alignParentRight=\"true\"
+\n       android:layout_alignParentEnd=\"true\"
+\n       android:hint=\"Pass\" /&gt;
+\n
+\n   &lt;EditText
+\n       android:layout_width=\"wrap_content\"
+\n       android:layout_height=\"wrap_content\"
+\n       android:id=\"@+id/editText3\"
+\n       android:layout_below=\"@+id/editText2\"
+\n       android:layout_alignParentLeft=\"true\"
+\n       android:layout_alignParentStart=\"true\"
+\n       android:layout_alignParentRight=\"true\"
+\n       android:layout_alignParentEnd=\"true\"
+\n       android:hint=\"Email\" /&gt;
+\n
+\n   &lt;Button
+\n       android:layout_width=\"wrap_content\"
+\n       android:layout_height=\"wrap_content\"
+\n       android:text=\"Save\"
+\n       android:id=\"@+id/button\"
+\n       android:layout_below=\"@+id/editText3\"
+\n       android:layout_centerHorizontal=\"true\"
+\n       android:layout_marginTop=\"50dp\" /&gt;
+\n
+\n&lt;/LinearLayout&gt;
+
+       </item><!-- Shared Preferences-->
+        <item>NULL</item> <!-- String Resources -->
+        <item>
+\n           With an image saved at res/drawable/image_name.png, this layout XML applies the image to a View:-
+\n &lt;ImageView
+\n    android:layout_height=\"wrap_content\"
+\n    android:layout_width=\"wrap_content\"
+\n    android:src=\"@drawable/image_name\" /&gt;
+\n
+\n     The following code retrieves the image as a Drawable:-
+\n          Resources res = getResources();
+\n          Drawable draw = res.getDrawable(R.drawable.image_name);
+        </item>  <!-- Drawable Resources -->
+        <item>NULL</item>  <!-- Values -->x
+        <item>NULL</item>  <!-- Additional Components -->
+        <item>NULL</item> <!-- BroadCast Receiver -->
+
+
+    </string-array>
+
+
+</resources>
